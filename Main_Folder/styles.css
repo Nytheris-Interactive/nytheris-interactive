@@ -1,0 +1,88 @@
+body {
+    font-family: EB Garamond;
+    margin: 0px;
+    padding: 0px;
+    background: linear-gradient(rgb(0, 207, 114), rgb(0, 0, 0));
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+h1 {
+    color: black;
+    font-size: 3em;
+    text-shadow:
+        -1px -1px 0 white,
+         1px -1px 0 white,
+        -1px  1px 0 white,
+         1px  1px 0 white;
+    margin: 10px;
+    padding: 0;
+}
+
+p {
+    color: black;
+    font-size: 1em;
+    text-shadow:
+        -1px -1px 0 white,
+         1px -1px 0 white,
+        -1px  1px 0 white,
+         1px  1px 0 white;
+    margin: 10px;
+    padding: 0;
+}
+
+h2 {
+    color: black;
+    font-size: 2em;
+    text-shadow:
+        -1px -1px 0 white,
+         1px -1px 0 white,
+        -1px  1px 0 white,
+         1px  1px 0 white;
+    margin: 10px;
+    padding: 0;
+}
+
+#lower-main-content-background {
+    background-color: white;
+    width: 100%;
+    height: 500px;
+    margin: 100px 0 0 0;
+    opacity: 0.75;
+    position: absolute;
+}
+
+button {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 2px solid black;
+    font-size: 1em;
+    text-shadow:
+        -1px -1px 0 white,
+         1px -1px 0 white,
+        -1px  1px 0 white,
+         1px  1px 0 white;
+    margin: 110px 0 0 20px;
+    padding: 10px;
+    width: 150px;
+    height: 50px;
+    position: relative;
+}
+
+button:hover {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    font-size: 1em;
+    text-shadow:
+        -1px -1px 0 white,
+         1px -1px 0 white,
+        -1px  1px 0 white,
+         1px  1px 0 white;
+    margin: 110px 0 0 20px;
+    padding: 10px;
+    width: 150px;
+    height: 50px;
+    position: relative;
+}
