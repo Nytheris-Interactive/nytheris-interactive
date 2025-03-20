@@ -9,3 +9,5 @@
 - Any violations may result in **legal action**.
 
 **For inquiries about licensing or permissions, contact:** { Discord: embruh_gaming#9306 } or { Gmail: Nytheris.Interactive@gmail.com }.
+
+© Copyright of Nytheris Interactive Studios 2025
